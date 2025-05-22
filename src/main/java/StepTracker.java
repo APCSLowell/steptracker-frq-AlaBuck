@@ -26,4 +26,5 @@ public class StepTracker
    } else{
           return 0.0;
    }
-} 
+ } 
+}
